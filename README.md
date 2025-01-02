@@ -17,7 +17,7 @@ Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino m�
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?logo=person-add&style=social&logoColor=black"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
