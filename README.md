@@ -10,7 +10,7 @@ Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino m�
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
