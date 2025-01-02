@@ -5,6 +5,35 @@
 Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou iniciando a graduação em Engenharia de Software na FIAP, buscando aprofundar meus conhecimentos em desenvolvimento de sistemas e inovação tecnológica. Sou apaixonado por tecnologia, especialmente nas áreas de segurança digital, inteligência artificial e desenvolvimento de software. Gosto de explorar novas ferramentas, resolver problemas complexos e criar soluções que impactem positivamente a sociedade. Durante meus estudos, participei de projetos práticos que me permitiram trabalhar em equipe, desenvolver habilidades de liderança e aplicar a teoria na prática. Também estou sempre em busca de oportunidades para aprender e contribuir, seja por meio de projetos pessoais, freelances ou estágios.
 
 
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
