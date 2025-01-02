@@ -6,25 +6,16 @@ Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino m�
 
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="location" 
+            title="Location" 
             src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="email" 
+            title="Email" 
             src="https://custom-icon-badges.demolab.com/badge/-leoyukio06@gmail.com-purple?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
