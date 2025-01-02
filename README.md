@@ -69,10 +69,12 @@ Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino m�
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoyukiio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
+
+
