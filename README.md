@@ -1,4 +1,4 @@
-# Léo Yukio
+# 🐱‍👤 Léo Yukio
 
 **`Fiap. Eng de Software`**
 
@@ -59,7 +59,7 @@ Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino m�
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoyukio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoyukiio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
