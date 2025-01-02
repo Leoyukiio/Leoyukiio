@@ -5,20 +5,15 @@
 Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou iniciando a graduação em Engenharia de Software na FIAP, buscando aprofundar meus conhecimentos em desenvolvimento de sistemas e inovação tecnológica. Sou apaixonado por tecnologia, especialmente nas áreas de segurança digital, inteligência artificial e desenvolvimento de software. Gosto de explorar novas ferramentas, resolver problemas complexos e criar soluções que impactem positivamente a sociedade. Durante meus estudos, participei de projetos práticos que me permitiram trabalhar em equipe, desenvolver habilidades de liderança e aplicar a teoria na prática. Também estou sempre em busca de oportunidades para aprender e contribuir, seja por meio de projetos pessoais, freelances ou estágios.
 
 
-<p align="left">
-        <img 
-            alt="location" 
-            title="Location" 
-            src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge"
-        />
-    </a> 
-        <img 
-            alt="email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/-leoyukio06@gmail.com-purple?style=for-the-badge&logo=mention&logoColor=white"
-        />
-    </a>
-</p>
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
