@@ -2,7 +2,7 @@
 
 **`Fiap. Eng de Software`**
 
-Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou iniciando a graduação em Engenharia de Software na FIAP, buscando aprofundar meus conhecimentos em desenvolvimento de sistemas e inovação tecnológica. Sou apaixonado por tecnologia, especialmente nas áreas de segurança digital, inteligência artificial e desenvolvimento de software. Gosto de explorar novas ferramentas, resolver problemas complexos e criar soluções que impactem positivamente a sociedade. Durante meus estudos, participei de projetos práticos que me permitiram trabalhar em equipe, desenvolver habilidades de liderança e aplicar a teoria na prática. Também estou sempre em busca de oportunidades para aprender e contribuir, seja por meio de projetos pessoais, freelances ou estágios.
+Me chamo Leonardo Yukio, tenho 18 anos e sou de São Paulo. Concluí o ensino médio no Senac, com o curso técnico em informática. Atualmente, estou iniciando a graduação em Engenharia de Software na FIAP, buscando aprofundar meus conhecimentos em desenvolvimento de sistemas e inovação tecnológica. Sou apaixonado por tecnologia, especialmente nas áreas de segurança digital, inteligência artificial e desenvolvimento de software..
 
 
 <div> 
